@@ -2,7 +2,7 @@
 Udacity Full Stack Web Developer Nanodegree Project 6
 
 ## About
-Deploy [Item-Catalog project](https://github.com/PeterElkesPhilopatir/ItemCatalog).
+Deploy [Item Catalog project](https://github.com/PeterElkesPhilopatir/ItemCatalog).
 
 ## Server Information
 IP address: 35.196.25.56
@@ -11,7 +11,7 @@ Username: grader
 URL site: <http://35.196.25.56/>
 
 # Server Configuration:
-- setup your server (Google ComuteEngine)
+- setup your server (Google ComputeEngine)
 - download [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - open putty gen to generate a private key then save it.
 - load the private key file.
